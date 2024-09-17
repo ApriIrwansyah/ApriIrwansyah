@@ -19,8 +19,12 @@ Here are some of the skills and technologies I am good at:
 ## 🛠️ Technologies Used
 
 🔍 Skills                      : Manual QA, Automated Testing, Test Script Writing, Bug Analysis, Regression Testing, Integration & System Testing.
+
 🔧 Automated Testing Framework : Selenium, Pytest, Cucumber, Katalon Studio, Appium Postman, Apache Jmeter
+
 🔧 Programming Languages       : Python
+
 🔧 Bug Tracking Tools          : JIRA, Bugzilla
+
 **🌐 Other Skill**             : SQL, Jenkins for CI/CD, GitHub
 
