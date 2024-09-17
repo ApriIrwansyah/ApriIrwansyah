@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Apri Irwansyah
 
-Dedicated QA engineer with expertise in **Manual QA** and **Automated Testing**. I am passionate about ensuring software quality by identifying bugs, improving testing processes, and collaborating in development teams. I mostly develop more with **Manual QA**. I really enjoy learning languages and frameworks like python and javascript, as well as working as a freelancer, you can check my linkedin https://www.linkedin.com/in/apriirwansyah/.
+      Dedicated QA engineer with expertise in **Manual QA** and **Automated Testing**. I am passionate about ensuring software quality by identifying bugs, improving testing processes, and collaborating in development teams. I mostly develop more with **Manual QA**. I really enjoy learning languages and frameworks like python and javascript, as well as working as a freelancer, you can check my linkedin https://www.linkedin.com/in/apriirwansyah/.
 Here are some of the skills and technologies I am good at:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApriIrwansyah)](https://github.com/ApriIrwansyah/github-readme-stats)
