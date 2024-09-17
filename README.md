@@ -11,6 +11,8 @@ Here are some of the skills and technologies I am good at:
 
 📫 How to reach me apri.irwansyah@gmail.com
 
+
+
 **Manual Testing**       : Documentation and manual test procedures to ensure application functionality.
 
 **Automated Testing**    : Scripts and frameworks for automated testing to improve test efficiency and coverage.
